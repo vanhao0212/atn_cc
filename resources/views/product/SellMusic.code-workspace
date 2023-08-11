@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "D:/php"
+		},
+		{
+			"path": "../../../../../../Users/DELL/Downloads/startbootstrap-sb-admin-2-gh-pages"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "startbootstrap-sb-admin-2-gh-pages"
+	}
+}

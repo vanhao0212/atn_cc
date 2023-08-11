@@ -1,0 +1,145 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+}
+body {
+	font-family: Roboto, sans-serif;
+}
+a {
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}
+h1, h2, h3, h4 {
+	font-weight: normal;
+	font-size: 100%;
+}
+p {
+	font-weight: normal;
+	font-size: 100%;  
+}
+
+
+
+/** box-left **/
+.box-left {
+	float: left;
+	width: 840px;
+	margin-top: 10px;
+}
+
+.box-left .list_album {
+	float: left;
+	width: 840px;
+	margin-bottom: 10px;
+}
+.box-left .list_album .tile_box_key {
+	width: 100%;
+	float: left;
+}
+.box-left .list_album .tile_box_key h2 {
+	display: inline-block;
+	font-size: 24px;
+	height: 36px;
+	line-height: 36px;
+	text-transform: uppercase;
+	font-weight: normal;
+	margin-bottom: 10px;
+}
+.box-left .list_album .tile_box_key h2 a {
+	color: #2daaed;
+}
+.box-left .list_album ul {
+	width: 860px;
+	float: left;
+}
+.box-left .list_album ul li {
+	width: 152px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 15px;
+}
+
+.box-left #one ul li .box-left-album {
+	width: 152px;
+	height: 152px;
+	margin-bottom: 8px;
+	background-color: rgba(0, 0, 0, 0.2);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+.box-left #one ul li:nth-child(1) .box-left-album {
+	background-image: url(images/list_songs/6.jpg);
+}
+.box-left #one ul li:nth-child(2) .box-left-album {
+	background-image: url(images/list_songs/7.jpg);
+}
+.box-left #one ul li:nth-child(3) .box-left-album {
+	background-image: url(images/list_songs/8.jpg);
+}
+.box-left #one ul li:nth-child(4) .box-left-album {
+	background-image: url(images/list_songs/9.jpg);
+}
+.box-left #one ul li:nth-child(5) .box-left-album {
+	background-image: url(images/list_songs/10.jpg);
+}
+.box-left #two ul li .box-left-album {
+	width: 152px;
+	height: 152px;
+	margin-bottom: 8px;
+	background-color: rgba(0, 0, 0, 0.2);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+.box-left #two ul li:nth-child(1) .box-left-album {
+	background-image: url(images/list_songs/1.jpg);
+}
+.box-left #two ul li:nth-child(2) .box-left-album {
+	background-image: url(images/list_songs/2.jpg);
+}
+.box-left #two ul li:nth-child(3) .box-left-album {
+	background-image: url(images/list_songs/3.jpg);
+}
+.box-left #two ul li:nth-child(4) .box-left-album {
+	background-image: url(images/list_songs/4.jpg);
+}
+.box-left #two ul li:nth-child(5) .box-left-album {
+	background-image: url(images/list_songs/5.jpg);
+}
+.box-left #three ul li .box-left-album {
+	width: 152px;
+	height: 152px;
+	margin-bottom: 8px;
+	background-color: rgba(0, 0, 0, 0.2);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+.box-left #three ul li:nth-child(1) .box-left-album {
+	background-image: url(images/list_songs/6.jpg);
+}
+.box-left #three ul li:nth-child(2) .box-left-album {
+	background-image: url(images/list_songs/7.jpg);
+}
+.box-left #three ul li:nth-child(3) .box-left-album {
+	background-image: url(images/list_songs/8.jpg);
+}
+.box-left #three ul li:nth-child(4) .box-left-album {
+	background-image: url(images/list_songs/9.jpg);
+}
+.box-left #three ul li:nth-child(5) .box-left-album {
+	background-image: url(images/list_songs/10.jpg);
+}
+.box-left #two ul li .info_album {
+	float: left;
+	width: 152px;
+	height: 24px;
+	line-height: 19px;
+	font-size: 15px;
+}
+
